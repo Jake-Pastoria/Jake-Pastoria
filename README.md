@@ -1,4 +1,4 @@
-## Hello there :) 
+## Hi there :) 
 I'm currently working with: 
 - Unity MLAgents
 - C#
