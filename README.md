@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 
+I'm currently working with: 
+              -Unity MLAgents
+              -C#
+              -C++
+              -Python
+              
 
 <!--
 **Jake-Pastoria/Jake-Pastoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
