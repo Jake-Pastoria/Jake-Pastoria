@@ -1,9 +1,9 @@
-### Hi there 👋 
+## Hello there :) 
 I'm currently working with: 
-              -Unity MLAgents
-              -C#
-              -C++
-              -Python
+- Unity MLAgents
+- C#
+- C++
+- Python
               
 
 <!--
