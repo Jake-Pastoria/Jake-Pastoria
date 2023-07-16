@@ -1,9 +1,9 @@
 ## Hi there :) 
 I'm currently working with: 
 - Unity MLAgents
-- C#
-- C++
-- Python
+- React.js
+- Socket.io
+- Tailwind
   
 ![Screenshot 2023-07-03 121145](https://github.com/Jake-Pastoria/Jake-Pastoria/assets/138522639/e75f30b8-90f9-40a6-956a-346f253384c6)
               
