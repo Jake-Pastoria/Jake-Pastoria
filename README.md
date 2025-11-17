@@ -1,6 +1,6 @@
 ### Hi, I'm Jake!
 
-I'm a UC Berkeley alum with a background in Data Science, Computer Science, and analytics engineering. Check out my [LinkedIn](https://www.linkedin.com/in/jake-pastoria-53b53923b/?skipRedirect=true) to see some of my experience as Head TA for Data 100! 
+I'm a UC Berkeley alum with a background in data science and computer science. Check out my [LinkedIn](https://www.linkedin.com/in/jake-pastoria-53b53923b/?skipRedirect=true) to see some of my experience as Head TA for Data 100! 
 
 ---
 
