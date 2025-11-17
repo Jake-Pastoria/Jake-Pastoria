@@ -1,23 +1,22 @@
-## Hi there :) 
-I'm currently working with: 
-- Pandas
-- Pytorch
+### Hi, I'm Jake!
 
-  
-![Screenshot 2023-07-03 121145](https://github.com/Jake-Pastoria/Jake-Pastoria/assets/138522639/e75f30b8-90f9-40a6-956a-346f253384c6)
-              
+I'm a UC Berkeley alum with a background in Data Science, Computer Science, and analytics engineering. Check out my [LinkedIn](https://www.linkedin.com/in/jake-pastoria-53b53923b/?skipRedirect=true) to see some of my experience as Head TA for Data 100! 
 
-<!--
-**Jake-Pastoria/Jake-Pastoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Here are some of the data and visualization projects I've been working on recently :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🔍 BigQuery/Tableau eCommerce Analytics Dashboard
+Image Soon <br>
+**Repo:** [Ecommerce Analytics Pipeline](https://github.com/Jake-Pastoria/Ecommerce-Analytics-Pipeline)  
+**Tools Used:** BigQuery • SQL • Tableau • Google Cloud Platform • EDA
+
+---
+
+### Here's some personal projects unrelated to data that I think are cool!
+
+#### 🌌 **OpenGL Black Hole Simulation**  
+![processed](https://github.com/user-attachments/assets/ef327296-dd65-4b02-a3af-04d9810c3681) <br>
+**Tools Used:** C++ • OpenGL • GLSL • Computer Graphics <br>
+**Showcase**: Shown in CS184's [Final Project Showcase](https://cs184.eecs.berkeley.edu/su25/project/showcase/#black-hole-simulator) <br>
+**Paper**: [Into The Abyss](https://ryantrinh05.github.io/black-hole-sim/final.html)
