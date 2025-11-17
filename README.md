@@ -16,7 +16,12 @@ Image Soon <br>
 ### Here's some personal projects unrelated to data that I think are cool!
 
 #### 🌌 **OpenGL Black Hole Simulation**  
-![processed](https://github.com/user-attachments/assets/ef327296-dd65-4b02-a3af-04d9810c3681) <br>
+<img 
+  src="https://github.com/user-attachments/assets/ef327296-dd65-4b02-a3af-04d9810c3681" 
+  alt="processed" 
+  width="400"
+/>
+<br>
 **Tools Used:** C++ • OpenGL • GLSL • Computer Graphics <br>
 **Showcase**: Shown in CS184's [Final Project Showcase](https://cs184.eecs.berkeley.edu/su25/project/showcase/#black-hole-simulator) <br>
 **Paper**: [Into The Abyss](https://ryantrinh05.github.io/black-hole-sim/final.html)
