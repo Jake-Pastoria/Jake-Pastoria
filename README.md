@@ -17,7 +17,7 @@ Image Soon <br>
 
 ---
 
-#### Here's some personal projects unrelated to data that I think are cool!
+#### Here's some personal projects unrelated to data that I think are interesting!
 <h5>(Click the dropdowns to read more!)</h5>
 <details>
   <summary><strong>🌌 OpenGL Black Hole Simulation</strong></summary>
