@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a UC Berkeley alum with a strong foundation in data sc
 
 ---
 
-#### Here are some of the data and visualization projects I've been working on recently :)
+#### Here's a data and visualization project I've been working on recently :)
 
 #### 🔍 BigQuery/Tableau eCommerce Analytics Dashboard
 Image Soon <br>
