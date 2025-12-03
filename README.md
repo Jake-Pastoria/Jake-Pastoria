@@ -13,7 +13,7 @@ Welcome to my GitHub! I'm a UC Berkeley alum with a strong foundation in data sc
 #### 🔍 BigQuery/Tableau eCommerce Analytics Dashboard
 Image Soon <br>
 **Repo:** [Ecommerce Analytics Pipeline](https://github.com/Jake-Pastoria/Ecommerce-Analytics-Pipeline)  
-**Tools Used:** BigQuery • SQL • Tableau • Google Cloud Platform • EDA
+**Tools Used:** BigQuery • SQL • Tableau
 
 ---
 
@@ -22,7 +22,7 @@ Image Soon <br>
 <details>
   <summary><strong>🌌 OpenGL Black Hole Simulation</strong></summary>
   <img src="https://github.com/user-attachments/assets/ef327296-dd65-4b02-a3af-04d9810c3681" alt="processed" width="400"/>
-  <div><strong>Tools Used:</strong> C++ • OpenGL • GLSL • Computer Graphics</div>
+  <div><strong>Tools Used:</strong> C++ • OpenGL • GLSL</div>
   <div><strong>Showcase:</strong><a href="https://cs184.eecs.berkeley.edu/su25/project/showcase/#black-hole-simulator" target="_blank"> CS184 Final Project Showcase</a></div>
   <div><strong>Paper:</strong><a href="https://ryantrinh05.github.io/black-hole-sim/final.html" target="_blank"> Into The Abyss</a></div>
 </details>
