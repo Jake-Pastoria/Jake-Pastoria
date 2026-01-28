@@ -3,7 +3,9 @@
 <div>
 I'm a Data Scientist from UC Berkeley! I previously served as the Head TA for Data 100 at UC Berkeley, where I led a 45-member teaching team, built course curriculum and infrastructure, and helped over a thousand students each semester build practical data skills. You can see more about my teaching and technical experiences on my
 <a href="https://www.linkedin.com/in/jake-pastoria-53b53923b/?skipRedirect=true" target="_blank">LinkedIn</a>. <br><br>
-<img src="https://github.com/user-attachments/assets/d6b41d98-7cc7-4eb4-b2fa-9b60d67a5f64" alt="processed" width="400"/>
+<img src="https://github.com/user-attachments/assets/d6b41d98-7cc7-4eb4-b2fa-9b60d67a5f64" alt="processed" width="49%"/>
+<img width="49%" alt="image" src="https://github.com/user-attachments/assets/15354664-ad0b-494e-9bd3-38a2236448e3" />
+
 </div>
 
 ---
