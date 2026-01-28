@@ -13,9 +13,9 @@ I'm a Data Scientist from UC Berkeley! I previously served as the Head TA for Da
 <details>
   <summary><strong>📈 BigQuery/Tableau eCommerce Analytics Dashboard</strong></summary>
   <img width="400" alt="image" src="https://github.com/user-attachments/assets/d235d6ef-9ff2-4380-92b0-a369067dc66f" />
-  <!-- <img src="[https://github.com/user-attachments/assets/ef327296-dd65-4b02-a3af-04d9810c3681](https://github.com/user-attachments/assets/9d821dbb-6b56-44db-932d-7e520dc0b385)" alt="processed" width="400"/> -->
   <div><strong>Tools Used: </strong>BigQuery • SQL • Tableau</div>
-  <div><strong>Dashboard: </strong><a href="BigQuery • SQL • Tableau" target="_blank">Tableau Public</a></div>
+  <div><strong>Dashboard: </strong><a href="https://public.tableau.com/app/profile/jake.pastoria/viz/LookDashboard/TheLookDashboard" target="_blank">Tableau Public</a></div>
+  <div><strong>Repo: </strong><a href="https://github.com/Jake-Pastoria/Ecommerce-Analytics-Dashboard" target="_blank">Link</a></div>
 </details>
 
 <details>
